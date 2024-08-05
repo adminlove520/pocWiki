@@ -89,6 +89,7 @@
   - [JeecgBoot漏洞](JeecgBoot漏洞.md)
   - [Jeecg任意文件上传漏洞](Jeecg任意文件上传漏洞.md)
   - [JeecgBoot反射型XSS漏洞](JeecgBoot反射型XSS漏洞.md)
+  - [jeecg-boot系统接口jmLink权限绕过漏洞](jeecg-boot系统接口jmLink权限绕过漏洞.md)
 - iDocView
   - [I_Doc_View任意文件上传漏洞](I_Doc_View任意文件上传漏洞.md)
   - [iDocView_upload接口任意文件读取](iDocView_upload接口任意文件读取.md)
@@ -251,6 +252,7 @@
   - [海康威视综合安防管理平台applyAutoLoginTicket远程代码执行漏洞](海康威视综合安防管理平台applyAutoLoginTicket远程代码执行漏洞.md)
   - [海康威视综合安防download存在任意文件读取漏洞](海康威视综合安防download存在任意文件读取漏洞.md)
   - [海康威视综合安防管理平台keepAlive远程代码执行漏洞](海康威视综合安防管理平台keepAlive远程代码执行漏洞.md)
+  - [海康威视综合安防管理平台uploadAllPackage任意文件上传漏洞](海康威视综合安防管理平台uploadAllPackage任意文件上传漏洞.md)
 - **深信服**
   - [深信服SANGFOR终端检测响应平台_-_任意用户免密登录,前台RCE](深信服SANGFOR终端检测响应平台_-_任意用户免密登录,前台RCE.md)
   - [深信服SG上网优化管理系统_catjs.php_任意文件读取漏洞](深信服SG上网优化管理系统_catjs.php_任意文件读取漏洞.md)
@@ -313,6 +315,7 @@
   - [泛微e-cology9接口WorkPlanService前台SQL注入漏洞(XVE-2024-18112)](泛微e-cology9接口WorkPlanService前台SQL注入漏洞(XVE-2024-18112).md)
   - [泛微ecology系统setup接口存在信息泄露漏洞](泛微ecology系统setup接口存在信息泄露漏洞.md)
   - [泛微e-cology接口HrmService前台SQL注入漏洞](泛微e-cology接口HrmService前台SQL注入漏洞.md)
+  - [泛微E-Cology系统接口deleteRequestInfoByXml存在XXE漏洞](泛微E-Cology系统接口deleteRequestInfoByXml存在XXE漏洞.md)
 - **万户OA**
   - [万户ezoffice_wpsservlet任意文件上传漏洞](万户ezoffice_wpsservlet任意文件上传漏洞.md)
   - [万户OA-upload任意文件上传漏洞](万户OA-upload任意文件上传漏洞.md)
@@ -394,6 +397,7 @@
   - [某神_SecSSL_3600安全接入网关系统_任意密码修改漏洞](某神_SecSSL_3600安全接入网关系统_任意密码修改漏洞.md)
   - [网神防火墙_app_av_import_save文件上传漏洞](网神防火墙_app_av_import_save文件上传漏洞.md)
   - [网神SecGate 3600 防火墙sys_hand_upfile 任意文件上传漏洞](网神SecGate-3600防火墙-sys_hand_upfile-任意文件上传漏洞.md)
+  - [网神SecGate3600未授权添加用户漏洞](网神SecGate3600未授权添加用户漏洞.md)
 - 网康
   - [网康科技NS-ASG应用安全网关list_ipAddressPolicy.php存在SQL注入漏洞(CVE-2024-2022)](网康科技NS-ASG应用安全网关list_ipAddressPolicy.php存在SQL注入漏洞(CVE-2024-2022).md)
   - [网康NS-ASG应用安全网关singlelogin.php存在SQL注入漏洞](网康NS-ASG应用安全网关singlelogin.php存在SQL注入漏洞.md)
@@ -520,6 +524,7 @@
   - [用友时空KSOA系统接口fillKP.jsp存在SQL注入漏洞](用友时空KSOA系统接口fillKP.jsp存在SQL注入漏洞.md)
   - [用友畅捷通-TPlus系统接口ajaxpro存在ssrf漏洞](用友畅捷通-TPlus系统接口ajaxpro存在ssrf漏洞.md)
   - [用友U9系统DoQuery接口存在SQL注入](用友U9系统DoQuery接口存在SQL注入.md)
+  - [用友NC系统complainjudge接口SQL注入漏洞(XVE-2024-19043)](用友NC系统complainjudge接口SQL注入漏洞(XVE-2024-19043).md)
 - **致远**
   - [致远M1_usertokenservice_反序列化RCE漏洞](致远M1_usertokenservice_反序列化RCE漏洞.md)
   
@@ -698,6 +703,7 @@
   - [通天星CMSV6车载视频监控平台xz_center信息泄露漏洞](通天星CMSV6车载视频监控平台xz_center信息泄露漏洞.md)
   - [通天星CMSV6接口pointManage存在SQL注入](通天星CMSV6接口pointManage存在SQL注入.md)
   - [通天星CMSV6车载视频监控平台disable存在SQL注入](通天星CMSV6车载视频监控平台disable存在SQL注入.md)
+  - [通天星CMSV6车载视频监控平台SESSION伪造漏洞](通天星CMSV6车载视频监控平台SESSION伪造漏洞.md)
 - 浙大恩特客户资源管理系统
   - [浙大恩特客户资源管理系统-purchaseaction.entphone接口存在SQL漏洞](浙大恩特客户资源管理系统-purchaseaction.entphone接口存在SQL漏洞.md)
 - 百卓 Smart S85F
@@ -861,6 +867,19 @@
 - 云匣子堡垒机
   - [云匣子堡垒机fastjson漏洞](云匣子堡垒机fastjson漏洞.md)
   - [云匣子系统接口ssoToolReport存在远程代码执行漏洞](云匣子系统接口ssoToolReport存在远程代码执行漏洞.md)
+- 章管家
+  - [章管家前台任意文件上传漏洞(XVE-2024-19042)](章管家前台任意文件上传漏洞(XVE-2024-19042).md)
+- 灵动业务架构平台(LiveBOS)系统
+  - [灵动业务架构平台(LiveBOS)系统UploadFile.do接口文件上传漏洞(XVE-2023-21708)](灵动业务架构平台(LiveBOS)系统UploadFile.do接口文件上传漏洞(XVE-2023-21708).md)
+  - [灵动业务架构平台(LiveBOS)系统UploadImage接口文件上传漏洞(XVE-2024-18835)](灵动业务架构平台(LiveBOS)系统UploadImage接口文件上传漏洞(XVE-2024-18835).md)
+- PEPM系统
+  - [PEPM系统Cookie存在远程代码执行漏洞(XVE-2024-16919)](PEPM系统Cookie存在远程代码执行漏洞(XVE-2024-16919).md)
+- 群杰印章物联网管理平台
+  - [群杰印章物联网管理平台rest密码重置漏洞(XVE-2024-18945)](群杰印章物联网管理平台rest密码重置漏洞(XVE-2024-18945).md)
+- 信呼OA系统
+  - [信呼OA系统index存在SQL注入漏洞](信呼OA系统index存在SQL注入漏洞.md)
+- 小狐狸Chatgpt付费创作系统
+  - [小狐狸Chatgpt付费创作系统存在任意文件上传漏洞](小狐狸Chatgpt付费创作系统存在任意文件上传漏洞.md)
 
 
 - 睿因_Wavlink
@@ -1349,6 +1368,8 @@
 
 - 同享人力管理管理平台
   - [同享人力管理管理平台DownloadFile存在任意文件下载漏洞](同享人力管理管理平台DownloadFile存在任意文件下载漏洞.md)
+  - [同享人力管理管理平台UploadHandler存在任意文件上传漏洞](同享人力管理管理平台UploadHandler存在任意文件上传漏洞.md)
+
 
 - 慧学教育科技有限公司
   - [慧学教育科技有限公司Campuswit_uploadFiles存在任意文件上传漏洞](慧学教育科技有限公司Campuswit_uploadFiles存在任意文件上传漏洞.md)
