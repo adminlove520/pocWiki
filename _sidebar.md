@@ -316,6 +316,7 @@
   - [泛微ecology系统setup接口存在信息泄露漏洞](泛微ecology系统setup接口存在信息泄露漏洞.md)
   - [泛微e-cology接口HrmService前台SQL注入漏洞](泛微e-cology接口HrmService前台SQL注入漏洞.md)
   - [泛微E-Cology系统接口deleteRequestInfoByXml存在XXE漏洞](泛微E-Cology系统接口deleteRequestInfoByXml存在XXE漏洞.md)
+  - [泛微E-Cology系统接口/wxclient/app/recruit/resume/addResume存在文件上传漏洞](泛微E-Cology系统接口/wxclient/app/recruit/resume/addResume存在文件上传漏洞.md)
 - **万户OA**
   - [万户ezoffice_wpsservlet任意文件上传漏洞](万户ezoffice_wpsservlet任意文件上传漏洞.md)
   - [万户OA-upload任意文件上传漏洞](万户OA-upload任意文件上传漏洞.md)

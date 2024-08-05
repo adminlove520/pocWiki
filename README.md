@@ -1,6 +1,10 @@
 # 漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络，目前收集整理了900多个poc/exp，善用CTRL+F搜索
 
+## 2024.08.05 新增漏洞
+
+- 泛微E-Cology系统接口/wxclient/app/recruit/resume/addResume存在文件上传漏洞
+
 ## 2024.08.04 新增漏洞
 
 - 同享人力管理管理平台UploadHandler存在任意文件上传漏洞
