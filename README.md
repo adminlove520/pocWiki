@@ -3,7 +3,7 @@
 
 ## 2024.08.05 新增漏洞
 
-- 泛微E-Cology系统接口/wxclient/app/recruit/resume/addResume存在文件上传漏洞
+- 泛微E-Cology系统接口addResume存在任意文件上传漏洞
 
 ## 2024.08.04 新增漏洞
 

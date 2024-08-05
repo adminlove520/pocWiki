@@ -1,6 +1,6 @@
-# 泛微E-Cology系统接口/wxclient/app/recruit/resume/addResume存在文件上传漏洞
+# 泛微E-Cology系统接口/wxclient/app/recruit/resume/addResume存在任意文件上传漏洞
 
-泛微e-cology是一款由泛微网络科技开发的协同管理平台，支持人力资源、财务、行政等多功能管理和移动办公。泛微e-cology系统接口`/rest/ofs/deleteRequestInfoByXml` 存在XXE漏洞
+泛微e-cology是一款由泛微网络科技开发的协同管理平台，支持人力资源、财务、行政等多功能管理和移动办公。泛微e-cology系统接口`/wxclient/app/recruit/resume/addResume` 存在任意文件上传漏洞
 
 ## fofa
 
