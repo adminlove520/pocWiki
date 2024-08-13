@@ -1,8 +1,68 @@
 # 漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络，目前收集整理了900多个poc/exp，善用CTRL+F搜索
 
-## 2024.08.05 新增漏洞
+## 2024.08.13 新增漏洞
 
+- 用友U8-Cloud系统BusinessRefAction存在SQL注入漏洞
+- 泛微e-office10系统schema_mysql.sql敏感信息泄露漏洞
+- 某短视频直播打赏系统任意文件读取漏洞
+- 某短视频直播打赏系统后台任意文件上传漏洞
+- 章管家listUploadIntelligent接口存在sql注入漏洞
+- 中成科信票务管理系统SeatMapHandler.ashx存在SQL注入漏洞
+- 中成科信票务管理系统TicketManager.ashx存在SQL注入漏洞
+- 喰星云-数字化餐饮服务系统not_finish.php存在SQL注入漏洞
+- 喰星云-数字化餐饮服务系统stock.php存在SQL注入漏洞
+- 喰星云-数字化餐饮服务系统shelflife.php存在SQL注入漏洞
+- 安美数字酒店宽带运营系统weather.php任意文件读取漏洞
+- 赛蓝企业管理系统GetImportDetailJson存在SQL注入漏洞
+- 金斗云HKMP智慧商业软件queryPrintTemplate存在SQL注入漏洞
+- 亿赛通电子文档安全管理系统SecretKeyService存在SQL注入漏洞
+- 润申信息科技ERP系统CommentStandardHandler.ashx接口存在sql注入漏洞
+- 润申信息科技ERP系统DefaultHandler.ashx接口存在sql注入漏洞
+
+## 2024.08.10 新增漏洞
+
+- H3C-iMC智能管理中心存在远程代码执行漏洞(XVE-2024-4567)
+- H3C-iMC智能管理中心autoDeploy.xhtml存在远程代码执行漏洞
+- 同享人力资源管理系统hdlUploadFile.ashx存在文件上传漏洞
+- 亿赛通电子文档安全管理系统DecryptionApp存在反序列化漏洞
+- 亿赛通电子文档安全管理系统docRenewApp存在反序列化漏洞
+- 亿赛通电子文档安全管理系统SecureUsbConnection存在反序列化漏洞
+- IP网络广播服务平台upload存在任意文件上传漏洞
+- ALR-F800存在命令执行漏洞
+- Atmail存在SQL注入漏洞
+- ELADMIN后台管理系统存在SSRF漏洞
+- JeecgBoot系统AviatorScript表达式注入漏洞
+- Journyx存在未经身份验证的XML外部实体注入
+- Mtab书签导航程序存在SQL注入漏洞
+- 驰骋BPM系统存在SQL注入漏洞
+- 亿赛通电子文档安全管理系统CDGAuthoriseTempletService1存在SQL注入漏洞(XVE-2024-19611)
+- 赛蓝企业管理系统SubmitUploadify存在任意文件上传漏洞
+- 用友NC系统接口link存在SQL注入漏洞
+- 大华DSS系统group_saveGroup存在SQL注入漏洞
+- H3C-SecPath下一代防火墙local_cert_delete_both存在任意文件上传漏洞
+- 科讯一卡通管理系统DataService.asmx存在SQL注入漏洞
+- 三汇网关管理软件debug.php远程命令执行漏洞
+- 万户ezOFFICE系统graph_include.jsp存在SQL注入漏洞
+
+## 2024.08.07 新增漏洞
+
+- 蓝凌EIS智慧协同平台UniformEntry.aspx存在SQL注入漏洞(XVE-2024-19181)
+- 世邦通信SPON-IP网络对讲广播系统addmediadata.php任意文件上传漏洞(XVE-2024-19281)
+- 泛微云桥(e-Bridge)系统接口addResume存在任意文件上传漏洞
+- Apache-OFBiz授权不当致代码执行漏洞(CVE-2024-38856)
+- 易捷OA协同办公软件ShowPic接口存在任意文件读取
+- SpringBlade系统usual接口存在SQL注入漏洞
+- 宏景eHR系统ajaxService接口处存在SQL注入漏洞
+- 满客宝智慧食堂系统selectUserByOrgId存在未授权访问漏洞
+- 蓝凌EKP系统dataxml.tmpl存在命令执行漏洞
+- 云时空社会化商业ERP系统online存在身份认证绕过漏洞
+- PerkinElmer-ProcessPlus存在文件读取漏洞(CVE-2024-6911)
+- 赛蓝企业管理系统GetCssFile存在任意文件读取漏洞
+- Calibre任意文件读取漏洞(CVE-2024-6781)
+- Calibre远程代码执行漏洞(CVE-2024-6782)
+
+## 2024.08.05 新增漏洞
 - 泛微E-Cology系统接口addResume存在任意文件上传漏洞
 
 ## 2024.08.04 新增漏洞
@@ -1060,3 +1120,9 @@
 ## 2023.9.14 新增漏洞
 - 致远OA前台用户重置密码漏洞
 - Apache Spark命令执行漏洞（CVE-2023-32007）
+
+## 免责声明
+由于传播、利用本文所提供的信息而造成的任何直接或者间接的后果及损失，均由使用者本人负责，作者不为此承担任何责任。所涉及工具来自网络，安全性自测。
+
+
+[![](https://starchart.cc/wy876/POC.svg)](https://starchart.cc/wy876/POC)
